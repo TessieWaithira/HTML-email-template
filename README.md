@@ -2,4 +2,4 @@
 
 ### Building HTML Email Template From Scratch
 
-Covers email design, by building an HTML email template from scratch, using nested tables
+Covers email design, by building HTML email template from scratch, using nested tables
